@@ -26,6 +26,6 @@ CheMango DEFI is being built within the Lisk ecosystem, leveraging its robust fr
 ## Get Involved!
 We are currently in the bootstrapping phase and working to develop our Minimum Viable Product (MVP). We're passionate about bringing financial empowerment to the world through a trust-based, decentralized model.
 
-Follow our journey on X: @CheMangoApp
+Follow our journey on X: [@CheMangoApp](https://x.com/CheMangoApp)
 
 Reach out with questions: chemangodefi@gmail.com
